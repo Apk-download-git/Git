@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Aviator Tool",
+    "price": 1990,
+    "validity": "1 week",
+    "image": "https://example.com/aviator_tool.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Aviator Tool",
+    "price": 3800,
+    "validity": "2 weeks",
+    "image": "https://example.com/aviator_tool_2.jpg"
+  }
+]
