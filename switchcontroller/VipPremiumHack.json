@@ -4,7 +4,7 @@
     "icon": "https://raw.githubusercontent.com/Apk-download-git/git/main/sikkim.png",
     "registration_link": "https://www.sikkim9.com/#/register?invitationCode=73728400111",
     "login_url": "https://www.sikkim9.com/#/login",
-    "deposit_url": "https://www.sikkim9.com/#/wallet/recharges",
+    "deposit_url": "https://www.sikkim9.com/#/wallet",
     "matching_urls": [
       "https://www.sikkim9.com/#/wallet",
       "https://www.sikkim9.com/#/wallet/recharges",
