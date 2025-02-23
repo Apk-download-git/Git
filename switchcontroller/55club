@@ -1,15 +1,15 @@
 {
   "matching_urls": [
-    "http://www.55slots.in/#/wallet",
-    "http://www.55slots.in/#/wallet/recharges",
-    "http://www.55slots.in/#/home/AllLotteryGames/WinGo?id=1",
-    "http://www.55slots.in/#/home/AllLotteryGames/5D?id=3",
-    "http://www.55slots.in/#/home/AllLotteryGames/5D?id=2",
-    "http://www.55slots.in/#/home/AllLotteryGames/WinTrx?id=4"
+    "https://www.55slots.in/#/wallet",
+    "https://www.55slots.in/#/wallet/recharges",
+    "https://www.55slots.in/#/home/AllLotteryGames/WinGo?id=1",
+    "https://www.55slots.in/#/home/AllLotteryGames/5D?id=3",
+    "https://www.55slots.in/#/home/AllLotteryGames/5D?id=2",
+    "https://www.55slots.in/#/home/AllLotteryGames/WinTrx?id=4"
   ],
-  "deposit_url": "http://www.55slots.in/#/wallet/recharges",
-  "login_url": "http://www.55slots.in/#/login",
-  "register_url": "http://www.55slots.in/#/register?invitationCode=135684201974",
-  "telegram_url": "http://t.me/vishuskills",
-  "home_url": "http://www.55slots.in/#/"
+  "deposit_url": "https://www.55slots.in/#/wallet/recharges",
+  "login_url": "https://www.55slots.in/#/login",
+  "register_url": "https://www.55slots.in/#/register?invitationCode=135684201974",
+  "telegram_url": "https://t.me/vishuskills",
+  "home_url": "https://www.55slots.in/#/"
 }
