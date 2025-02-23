@@ -1,0 +1,15 @@
+{
+  "matching_urls": [
+    "http://www.bing009.com/#/wallet",
+    "http://www.bing009.com/#/wallet/recharges",
+    "http://www.bing009.com/#/home/AllLotteryGames/WinGo?id=1",
+    "http://www.bing009.com/#/home/AllLotteryGames/5D?id=3",
+    "http://www.bing009.com/#/home/AllLotteryGames/5D?id=2",
+    "http://www.bing009.com/#/home/AllLotteryGames/WinTrx?id=4"
+  ],
+  "deposit_url": "http://www.bing009.com/#/wallet/recharges",
+  "login_url": "http://www.bing009.com/#/login",
+  "register_url": "http://www.bing009.com/#/register?invitationCode=416623809168",
+  "telegram_url": "http://t.me/vishuskills",
+  "home_url": "http://www.bing009.com/#/"
+}

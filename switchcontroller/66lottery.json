@@ -1,0 +1,17 @@
+{
+  "matching_urls": [
+    "http://www.66lottery37.com/#/pages/deposits/deposits?orogin=wallet",
+    "http://www.66lottery37.com/#/",
+    "http://www.66lottery37.com/#/wallet/recharges",
+    "http://www.66lottery37.com/#/pages/games/wingo/wingo",
+    "http://www.66lottery37.com/#/pages/games/kthree/kthree",
+    "http://www.66lottery37.com/#/pages/games/racing/racing",
+    "http://www.66lottery37.com/#/pages/games/fived/fived",
+    "http://www.66lottery37.com/#/pages/games/trxwingo/trxwingo"
+  ],
+  "deposits_url": "http://www.66lottery37.com/#/pages/deposits/deposits?orogin=wallet",
+  "login_url": "http://www.66lottery37.com/#/pages/login/login",
+  "register_url": "http://www.66lottery37.com/#/pages/login/register?invitationCode=5101438049",
+  "telegram_url": "http://t.me/vishuskills",
+  "home_url": "http://www.66lottery37.com/#/"
+}
