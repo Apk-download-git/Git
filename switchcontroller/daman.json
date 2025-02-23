@@ -1,15 +1,15 @@
 {
   "matching_urls": [
-    "http://damangames.bet/#/wallet",
-    "http://damangames.bet/#/wallet/recharges",
-    "http://damangames.bet/#/home/AllLotteryGames/WinGo?id=1",
-    "http://damangames.bet/#/home/AllLotteryGames/5D?id=3",
-    "http://damangames.bet/#/home/AllLotteryGames/5D?id=2",
-    "http://damangames.bet/#/home/AllLotteryGames/WinTrx?id=4"
+    "https://damangames.bet/#/wallet",
+    "https://damangames.bet/#/wallet/recharges",
+    "https://damangames.bet/#/home/AllLotteryGames/WinGo?id=1",
+    "https://damangames.bet/#/home/AllLotteryGames/5D?id=3",
+    "https://damangames.bet/#/home/AllLotteryGames/5D?id=2",
+    "https://damangames.bet/#/home/AllLotteryGames/WinTrx?id=4"
   ],
-  "deposit_url": "http://damangames.bet/#/wallet/recharges",
-  "login_url": "http://damangames.bet/#/login",
-  "register_url": "http://damangames.bet/#/register?invitationCode=7247711618071",
-  "telegram_url": "http://t.me/vishuskills",
-  "home_url": "http://damangames.bet/#/"
+  "deposit_url": "https://damangames.bet/#/wallet/recharges",
+  "login_url": "https://damangames.bet/#/login",
+  "register_url": "https://damangames.bet/#/register?invitationCode=7247711618071",
+  "telegram_url": "https://t.me/vishuskills",
+  "home_url": "https://damangames.bet/#/"
 }
