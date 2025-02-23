@@ -1,13 +1,13 @@
 {
   "matching_urls": [
     "https://damanslots.in/#/wallet",
-    "https://damanslots.in/#/wallet/recharges",
+    "https://damanslots.in/#/wallet/recharge",
     "https://damanslots.in/#/home/AllLotteryGames/WinGo?id=1",
     "https://damanslots.in/#/home/AllLotteryGames/5D?id=3",
     "https://damanslots.in/#/home/AllLotteryGames/5D?id=2",
     "https://damanslots.in/#/home/AllLotteryGames/WinTrx?id=4"
   ],
-  "deposit_url": "https://damanslots.in/#/wallet",
+  "deposit_url": "https://damanslots.in/#/wallet/recharge",
   "login_url": "https://damanslots.in/#/login",
   "register_url": "https://damanslots.in/#/register?invitationCode=7247711618071",
   "telegram_url": "https://t.me/vishuskills",
