@@ -1,15 +1,15 @@
 {
   "matching_urls": [
-    "http://okwinslots4.com/#/wallet",
-    "http://okwinslots4.com/#/wallet/recharges",
-    "http://okwinslots4.com/#/home/AllLotteryGames/WinGo?id=1",
-    "http://okwinslots4.com/#/home/AllLotteryGames/5D?id=3",
-    "http://okwinslots4.com/#/home/AllLotteryGames/5D?id=2",
-    "http://okwinslots4.com/#/home/AllLotteryGames/WinTrx?id=4"
+    "https://okwinslots4.com/#/wallet",
+    "https://okwinslots4.com/#/wallet/recharges",
+    "https://okwinslots4.com/#/home/AllLotteryGames/WinGo?id=1",
+    "https://okwinslots4.com/#/home/AllLotteryGames/5D?id=3",
+    "https://okwinslots4.com/#/home/AllLotteryGames/5D?id=2",
+    "https://okwinslots4.com/#/home/AllLotteryGames/WinTrx?id=4"
   ],
-  "deposit_url": "http://okwinslots4.com/#/wallet/recharges",
-  "login_url": "http://okwinslots4.com/#/login",
-  "register_url": "http://okwinslots4.com/#/register?invitationCode=577581492885",
-  "telegram_url": "http://t.me/vishuskills",
-  "home_url": "http://okwinslots4.com/#/"
+  "deposit_url": "https://okwinslots4.com/#/wallet/recharges",
+  "login_url": "https://okwinslots4.com/#/login",
+  "register_url": "https://okwinslots4.com/#/register?invitationCode=577581492885",
+  "telegram_url": "https://t.me/vishuskills",
+  "home_url": "https://okwinslots4.com/#/"
 }
