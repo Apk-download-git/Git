@@ -4,13 +4,17 @@
         "price": "₹219.00",
         "duration": "1 week",
         "id": "aviator_1",
-        "image_url": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/sikkim.png"
+        "image_url": "https://example.com/sikkim.png",
+        "license_key": "ABC123-XYZ456",
+        "apk_url": "https://example.com/apks/aviator_1.apk"
     },
     {
         "name": "Aviator Tool",
         "price": "₹239.00",
         "duration": "2 weeks",
         "id": "aviator_2",
-        "image_url": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/okwin.png"
+        "image_url": "https://example.com/okwin.png",
+        "license_key": "DEF789-GHI101",
+        "apk_url": "https://example.com/apks/aviator_2.apk"
     }
 ]
