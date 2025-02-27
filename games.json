@@ -5,7 +5,13 @@
         "duration": "1 week",
         "id": "aviator_1",
         "image_url": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/okwin.png",
-        "license_key": "ABC123-XYZ456",
+        "license_keys": [
+            "ABC123-XYZ456",
+            "ABC123-XYZ45sdf6",
+            "ABC123-XYZ4s56",
+            "ABC123-XYZdfs456",
+            "ABC123-XYZ45dsfa6"
+        ],
         "apk_url": "https://raw.githubusercontent.com/Apk-download-git/Tool-hack/refs/heads/main/Application/55ClubMasterTool.apk"
     },
     {
@@ -14,7 +20,13 @@
         "duration": "2 weeks",
         "id": "aviator_2",
         "image_url": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/okwin.png",
-        "license_key": "DEF789-GHI101",
+        "license_keys": [
+            "ABC123-XYadsZ456",
+            "ABC123-XYZdsa45sdf6",
+            "ABC123-sdaXYZ4s56",
+            "ABC123sda-XYZdfs456",
+            "ABC12sad3-XYZ45dsfa6"
+        ],
         "apk_url": "https://raw.githubusercontent.com/Apk-download-git/Tool-hack/refs/heads/main/Application/55ClubMasterTool.apk"
     }
 ]
