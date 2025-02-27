@@ -4,7 +4,7 @@
         "price": "₹219.00",
         "duration": "1 week",
         "id": "aviator_1",
-        "image_url": "https://example.com/sikkim.png",
+        "image_url": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/sikkim.png",
         "license_key": "ABC123-XYZ456",
         "apk_url": "https://github.com/Apk-download-git/Tool-hack/blob/main/Application/55ClubMasterTool.apk"
     },
@@ -13,7 +13,7 @@
         "price": "₹239.00",
         "duration": "2 weeks",
         "id": "aviator_2",
-        "image_url": "https://example.com/okwin.png",
+        "image_url": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/okwin.png",
         "license_key": "DEF789-GHI101",
         "apk_url": "https://github.com/Apk-download-git/Tool-hack/blob/main/Application/55ClubMasterTool.apk"
     }
