@@ -2,10 +2,10 @@
   "matching_urls": [
     "https://okwinslots4.com/#/wallet",
     "https://okwinslots4.com/#/wallet/recharge",
-    "https://okwinslots4.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://okwinslots4.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
-    "https://okwinslots4.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
-    "https://okwinslots4.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+    "https://okwinslots4.com/#/home/AllLotteryGames/WinGo?id=1",
+    "https://okwinslots4.com/#/home/AllLotteryGames/K3?id=2",
+    "https://okwinslots4.com/#/home/AllLotteryGames/5D?id=3",
+    "https://okwinslots4.com/#/home/AllLotteryGames/WinTrx?id=4"
   ],
   "deposit_url": "https://okwinslots4.com/#/wallet/recharge",
   "login_url": "https://okwinslots4.com/#/login",
