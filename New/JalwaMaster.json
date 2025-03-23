@@ -1,0 +1,15 @@
+{
+  "matching_urls": [
+    "https://jalwa.win/#/wallet",
+    "https://jalwa.win/#/wallet/recharge",
+    "https://jalwa.win/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://jalwa.win/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://jalwa.win/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://jalwa.win/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+  ],
+  "deposit_url": "https://jalwa.win/#/wallet/recharge",
+  "login_url": "https://jalwa.win/#/login",
+  "register_url": "https://jalwa.win/#/register?invitationCode=48322104730",
+  "telegram_url": "https://t.me/vishuskills",
+  "home_url": "https://jalwa.win/#/"
+}
