@@ -3,13 +3,14 @@
     "https://www.jalwa.games/#/wallet",
     "https://www.jalwa.games/#/wallet/recharge",
     "https://www.jalwa.games/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://www.jalwa.games/#/register?invitationCode=74755101354",
     "https://www.jalwa.games/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
     "https://www.jalwa.games/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
     "https://www.jalwa.games/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
   "deposit_url": "https://www.jalwa.games/#/wallet",
   "login_url": "https://www.jalwa.games/#/login",
-  "register_url": "https://www.jalwa.games/#/register?invitationCode=74755101354",
+  "register_url": "",
   "telegram_url": "https://t.me/vishuskills",
   "home_url": "https://www.jalwa.games/#/"
 }
