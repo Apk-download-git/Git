@@ -2,6 +2,7 @@
   "matching_urls": [
     "https://www.jalwa.live/#/wallet",
     "https://www.jalwa.live/#/wallet/recharge",
+    "https://www.jalwa.live/#/register?invitationCode=28485100922",
     "https://www.jalwa.live/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
     "https://www.jalwa.live/#/saasLottery/K3?gameCode=K3_1M&lottery=K3",
     "https://www.jalwa.live/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
@@ -9,7 +10,7 @@
   ],
   "deposit_url": "https://www.jalwa.live/#/wallet",
   "login_url": "https://www.jalwa.live/#/login",
-  "register_url": "https://www.jalwa.live/#/register?invitationCode=28485100922",
+  "register_url": "",
   "telegram_url": "https://t.me/+zKWc0GVLmjlkODU1",
   "home_url": "https://www.jalwa.live/#/"
 }
