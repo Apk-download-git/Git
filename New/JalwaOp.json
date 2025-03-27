@@ -9,7 +9,7 @@
   ],
   "deposit_url": "https://www.jalwa.org/#/wallet",
   "login_url": "https://www.jalwa.org/#/login",
-  "register_url": "https://www.jalwa.org/#/register?invitationCode=28485100922",
+  "register_url": "https://www.jalwa.org/#/register?,invitationCode=28485100922",
   "telegram_url": "https://t.me/+zKWc0GVLmjlkODU1",
   "home_url": "https://www.jalwa.org/#/"
 }
