@@ -9,7 +9,7 @@
   ],
   "deposit_url": "https://www.sikkim9.com/#/wallet/recsharge",
   "login_url": "https://www.sikkim9.com/#/login",
-  "register_url": "https://www.sikkim9.com/#/register?invitationCode=73728400111",
+  "register_url": "http://www.sikkim9.com/#/register?invitationCode=73728400111",
   "telegram_url": "https://t.me/vishuskills",
   "home_url": "https://www.sikkim9.com/#/"
 }
