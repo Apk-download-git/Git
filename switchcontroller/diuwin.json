@@ -9,7 +9,7 @@
   ],
   "deposit_url": "https://www.diuwinapp.pro/#/wallet/rechsarge",
   "login_url": "https://www.diuwinapp.pro/#/login",
-  "register_url": "https://www.diuwinapp.pro/#/register?invitationCode=42677100202",
+  "register_url": "http://www.diuwinapp.pro/#/register?invitationCode=42677100202",
   "telegram_url": "https://t.me/vishuskills",
   "home_url": "https://www.diuwinapp.pro/#/"
 }
