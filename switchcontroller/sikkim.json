@@ -1,13 +1,13 @@
 {
   "matching_urls": [
     "https://www.12sikkim.com/#/wallet",
-    "https://www.12sikkim.com/#/wallet/rescharge",
+    "https://www.12sikkim.com/#/wallet/recharge",
     "https://www.12sikkim.com/#/home/AllLotteryGames/WinGo?id=1",
     "https://www.12sikkim.com/#/home/AllLotteryGames/5D?id=3",
     "https://www.12sikkim.com/#/home/AllLotteryGames/5D?id=2",
     "https://www.12sikkim.com/#/home/AllLotteryGames/WinTrx?id=4"
   ],
-  "deposit_url": "https://www.12sikkim.com/#/wallet/recsharge",
+  "deposit_url": "https://www.12sikkim.com/#/wallet/recharge",
   "login_url": "https://www.12sikkim.com/#/login",
   "register_url": "https://www.12sikkim.com/#/register?invitationCode=73728400111",
   "telegram_url": "https://t.me/vishuskills",
