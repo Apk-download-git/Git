@@ -7,7 +7,7 @@
     "https://jalwa.org/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
     "https://jalwa.org/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
-  "deposit_url": "https://jalwa.org/#0/wallet",
+  "deposit_url": "https://jalwa.org/#/wallet",
   "login_url": "https://jalwa.org/#/login",
   "register_url": "https://jalwa.org/#/register?invitationCode=48322104730",
   "telegram_url": "https://t.me/vishuskills",
