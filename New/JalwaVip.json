@@ -7,7 +7,7 @@
     "https://www.jalwa.org/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
     "https://www.jalwa.org/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo"
   ],
-  "deposit_url": "https://www.jalwa.org/#0/wallet",
+  "deposit_url": "https://www.jalwa.org/#/wallet",
   "login_url": "https://www.jalwa.org/#/login",
   "register_url": "https://www.jalwa.org/#/register?invitationCode=76357101925",
   "telegram_url": "https://t.me/vishuskills",
