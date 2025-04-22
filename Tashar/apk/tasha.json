@@ -5,7 +5,7 @@
     "https://www.tashanwin.io/saasLottery/D5?gameCode=D5_1M&lottery=D5",
     "https://www.tashanwin.io/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
-  "deposit_url": "https://www.tashanwin.io/wallet/Recharge",
+  "deposit_url": "https://www.tashanwin.io/#/wallet/Recharge",
   "login_url": "https://www.tashanwin.io/login",
   "register_url": "https://www.tashanwin.io/#/register?invitationCode=21682110434",
   "telegram_url": "https://t.me/+Sxaj4bp2JJQ0NTY9",
