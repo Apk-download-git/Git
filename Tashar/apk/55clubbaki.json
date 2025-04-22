@@ -1,0 +1,13 @@
+{
+  "matching_urls": [
+    "https://www.in994.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://www.in994.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://www.in994.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://www.in994.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+  ],
+  "deposit_url": "https://www.in994.com/#/wallet/Recharge",
+  "login_url": "https://www.in994.com/#/login",
+  "register_url": "https://www.in994.com/#/register?invitationCode=735121151450",
+  "telegram_url": "https://t.me/+SPoY2icsaLY1YjJl",
+  "home_url": "https://www.in994.com/#/"
+}
