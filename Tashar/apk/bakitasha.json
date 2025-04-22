@@ -1,13 +1,13 @@
 {
   "matching_urls": [
-    "https://www.tashanwin.limo/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://www.tashanwin.limo/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
-    "https://www.tashanwin.limo/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
-    "https://www.tashanwin.limo/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+    "https://www.tashanwin.club/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://www.tashanwin.club/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://www.tashanwin.club/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://www.tashanwin.club/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
-  "deposit_url": "https://www.tashanwin.limo/#/wallet/Recharge",
-  "login_url": "https://www.tashanwin.limo/#/login",
+  "deposit_url": "https://www.tashanwin.club/#/wallet/Recharge",
+  "login_url": "https://www.tashanwin.club/#/login",
   "register_url": "https://www.tashanwin.club/#/register?invitationCode=14854153608",
   "telegram_url": "https://t.me/+uEmlod61YVswNDE1",
-  "home_url": "https://www.tashanwin.limo/#/"
+  "home_url": "https://www.tashanwin.club/#/"
 }
