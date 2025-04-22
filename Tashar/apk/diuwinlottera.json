@@ -1,0 +1,12 @@
+{
+  "matching_urls": [
+    "https://diuwinapp.pro/#/home/AllLotteryGames/WinGo?id=1",
+    "https://diuwinapp.pro/#/home/AllLotteryGames/K3?id=2",
+    "https://diuwinapp.pro/#/home/AllLotteryGames/K3?id=3"
+  ],
+  "deposit_url": "https://diuwinapp.pro/#/wallet/Recharge",
+  "login_url": "https://diuwinapp.pro/#/login",
+  "register_url": "https://diuwinapp.pro/#/register?invitationCode=42677100202",
+  "telegram_url": "https://t.me/+l_cDIUJByMtlMTJl",
+  "home_url": "https://diuwinapp.pro/#/"
+}
