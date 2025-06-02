@@ -1,8 +1,7 @@
 {
   "matching_urls": [
-    "https://www.bing009.com/#/home/AllLotteryGames/WinGo?id=1",
-    "https://www.bing009.com/#/home/AllLotteryGames/K3?id=2",
-    "https://www.bing009.com/#/home/AllLotteryGames/K3?id=3"
+    "https://www.bing009.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://www.bing009.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
   "deposit_url": "https://www.bing009.com/#/wallet/Recharge",
   "login_url": "https://www.bing009.com/#/login",
