@@ -1,13 +1,13 @@
 {
   "matching_urls": [
-    "https://www.tashanwin.io/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://www.tashanwin.io/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
-    "https://www.tashanwin.io/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
-    "https://www.tashanwin.io/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+    "https://www.tashanwin.in/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://www.tashanwin.in/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://www.tashanwin.in/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://www.tashanwin.in/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
-  "deposit_url": "https://www.tashanwin.io/#/wallet/Recharge",
-  "login_url": "https://www.tashanwin.io/#/login",
-  "register_url": "https://www.tashanwin.io/#/register?invitationCode=21682110434",
+  "deposit_url": "https://www.tashanwin.in/#/wallet/Recharge",
+  "login_url": "https://www.tashanwin.in/#/login",
+  "register_url": "http://www.tashanwin.in/#/register?invitationCode=21682110434",
   "telegram_url": "https://t.me/+Sxaj4bp2JJQ0NTY9",
-  "home_url": "https://www.tashanwin.io/#/"
+  "home_url": "https://www.tashanwin.in/#/"
 }
