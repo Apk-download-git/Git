@@ -1,11 +1,11 @@
 {
   "matching_urls": [
-    "https://www.bing009.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://www.bing009.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+    "https://www.goagame.co/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://www.goagame.co/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
-  "deposit_url": "https://www.bing009.com/#/wallet/Recharge",
-  "login_url": "https://www.bing009.com/#/login",
-  "register_url": "https://www.bing009.com/#/register?invitationCode=416623809168",
+  "deposit_url": "https://www.goagame.co/#/wallet/Recharge",
+  "login_url": "https://www.goagame.co/#/login",
+  "register_url": "https://www.goagame.co/#/register?invitationCode=416623809168",
   "telegram_url": "https://t.me/+l-RAB3kY5b9hYjA1",
-  "home_url": "https://www.bing009.com/#/"
+  "home_url": "https://www.goagame.co/#/"
 }
