@@ -1,8 +1,6 @@
 {
   "matching_urls": [
-    "https://diuwinapp.pro/#/home/AllLotteryGames/WinGo?id=1",
-    "https://diuwinapp.pro/#/home/AllLotteryGames/5D?id=3",
-    "https://diuwinapp.pro/#/home/AllLotteryGames/5D?id=2"
+    "https://diuwinapp.pro/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
   ],
   "deposit_url": "https://diuwinapp.pro/#/wallet/Recharge",
   "login_url": "https://diuwinapp.pro/#/login",
