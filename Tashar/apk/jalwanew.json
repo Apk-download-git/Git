@@ -1,7 +1,7 @@
 {
   "matching_urls": [
-    "https://www.jalwagame.me/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGos",
-    "https://www.jalwagame.me/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGos"
+    "https://www.jalwagame.me/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://www.jalwagame.me/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo"
   ],
   "deposit_url": "https://www.jalwagame.me/#/wallet/Recharge",
   "login_url": "https://www.jalwagame.me/#/login",
