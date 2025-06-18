@@ -1,0 +1,11 @@
+{
+  "matching_urls": [
+    "https://www.jalwagame.me/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGos",
+    "https://www.jalwagame.me/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGos"
+  ],
+  "deposit_url": "https://www.jalwagame.me/#/wallet/Recharge",
+  "login_url": "https://www.jalwagame.me/#/login",
+  "register_url": "https://www.jalwagame.me/#/register?invitationCode=487643178264",
+  "telegram_url": "https://t.me/+B25wIb29hPhjY2Q1",
+  "home_url": "https://www.jalwagame.me/#/"
+}
