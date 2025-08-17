@@ -1,13 +1,13 @@
 {
   "matching_urls": [
-    "https://indiabdg.in/#/saasLottery/WinGo?gameCode=WinGo_5M&lottery=WinGo",
-    "https://indiabdg.in/#/saasLottery/WinGo?gameCode=WinGo_3M&lottery=WinGo",
-    "https://indiabdg.in/#/saasLottery/WinGo?gameCode=WinGo_1M&lottery=WinGo",
-    "https://indiabdg.in/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
+    "https://bdg-top.com/#/saasLottery/WinGo?gameCode=WinGo_5M&lottery=WinGo",
+    "https://bdg-top.com/#/saasLottery/WinGo?gameCode=WinGo_3M&lottery=WinGo",
+    "https://bdg-top.com/#/saasLottery/WinGo?gameCode=WinGo_1M&lottery=WinGo",
+    "https://bdg-top.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
   ],
-  "deposit_url": "https://indiabdg.in//#/wallet/Recharge",
-  "login_url": "https://indiabdg.in//#/login",
-  "register_url": "https://indiabdg.in//#/register?invitationCode=3825215425428",
+  "deposit_url": "https://bdg-top.com//#/wallet/Recharge",
+  "login_url": "https://bdg-top.com//#/login",
+  "register_url": "https://bdg-top.com//#/register?invitationCode=382808248358",
   "telegram_url": "https://t.me/+Z7jpiouJEIsyZTI1",
-  "home_url": "https://indiabdg.in//#/"
+  "home_url": "https://bdg-top.com//#/"
 }
