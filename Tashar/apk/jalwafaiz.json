@@ -1,11 +1,11 @@
 {
   "matching_urls": [
-    "https://www.jalwagames.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://www.jalwagames.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo"
+    "https://www.jgame3.win/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://www.jgame3.win/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo"
   ],
-  "deposit_url": "https://www.jalwagames.com/#/wallet/Recharge",
-  "login_url": "https://www.jalwagames.com/#/login",
-  "register_url": "https://www.jalwagames.com/#/register?invitationCode=583273236469",
+  "deposit_url": "https://www.jgame3.win/#/wallet/Recharge",
+  "login_url": "https://www.jgame3.win/#/login",
+  "register_url": "https://www.jgame3.win/#/register?invitationCode=583273236469",
   "telegram_url": "https://t.me/+I4ehnvbroZJiMTQ9",
-  "home_url": "https://www.jalwagames.com/#/"
+  "home_url": "https://www.jgame3.win/#/"
 }
