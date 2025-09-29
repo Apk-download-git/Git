@@ -1,15 +1,15 @@
 {
   "matching_urls": [
-    "https://jalwa.org/#/wallet",
-    "https://jalwa.org/#/wallet/recharge",
-    "https://jalwa.org/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://jalwa.org/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
-    "https://jalwa.org/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
-    "https://jalwa.org/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+    "https://jgame3.win/#/wallet",
+    "https://jgame3.win/#/wallet/recharge",
+    "https://jgame3.win/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://jgame3.win/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://jgame3.win/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://jgame3.win/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
-  "deposit_url": "https://jalwa.org/#/wallet",
-  "login_url": "https://jalwa.org/#/login",
-  "register_url": "https://jalwa.org/#/register?invitationCode=48322104730",
+  "deposit_url": "https://jgame3.win/#/wallet",
+  "login_url": "https://jgame3.win/#/login",
+  "register_url": "https://jgame3.win/#/register?invitationCode=48322104730",
   "telegram_url": "https://t.me/vishuskills",
-  "home_url": "https://jalwa.org/#/"
+  "home_url": "https://jgame3.win/#/"
 }
