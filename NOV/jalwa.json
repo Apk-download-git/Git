@@ -1,0 +1,9 @@
+{
+  "home": "https://www.jalwa.org/#/",
+  "register": "https://www.jalwa.org/#/register?invitationCode=615544007322",
+  "login": "https://www.jalwa.org/#/login",
+  "wallet": "https://www.jalwa.org/#/wallet",
+  "matching": [
+    "https://www.jalwa.org/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
+  ]
+}
