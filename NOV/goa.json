@@ -1,0 +1,9 @@
+{
+  "home": "https://goagameb.com/#/",
+  "register": "https://goagameb.com/#/register?invitationCode=416623809168",
+  "login": "https://goagameb.com/#/login",
+  "wallet": "https://goagameb.com/#/wallet",
+  "matching": [
+    "https://goagameb.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
+  ]
+}
