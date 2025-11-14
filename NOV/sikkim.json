@@ -1,0 +1,9 @@
+{
+  "home": "https://sikkimgg.net/#/",
+  "register": "https://sikkimgg.net/#/register?invitationCode=73728400111",
+  "login": "https://sikkimgg.net/#/login",
+  "wallet": "https://sikkimgg.net/#/wallet",
+  "matching": [
+    "https://sikkimgg.net/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
+  ]
+}
