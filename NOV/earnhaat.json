@@ -1,0 +1,12 @@
+{
+  "home": "https://earnhaat.com/#/",
+  "register": "https://earnhaat.com/#/register?code=131488725",
+  "login": "https://earnhaat.com/#/login",
+  "wallet": "https://earnhaat.com/#/wallet",
+  "matching": [
+    "https://earnhaat.com/#/wingo/wingo?gameId=1",
+    "https://earnhaat.com/#/wingo/wingo?gameId=2",
+    "https://earnhaat.com/#/wingo/wingo?gameId=3",
+    "https://earnhaat.com/#/wingo/wingo?gameId=4"
+  ]
+}
