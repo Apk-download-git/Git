@@ -2,42 +2,83 @@
   {
     "name": "BONUS BHAI",
     "subtitle": "https://bonusbhai.in/register?invitationCode=316273525320",
-    "image": "https://bonusbhai.in/h5setting_202308141709544lm1.png",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bonusbhai.jpg",
     "main": true,
     "deposit_url": "https://bonusbhai.in/#/wallet",
     "chance_used": 1,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
   },
   {
     "name": "GBGM GAME",
     "subtitle": "Server Connected",
-    "image": "https://gbgm.buzz/aritsulation/logo.png",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/gbgm.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
   },
   {
     "name": "JALWA GAME",
     "subtitle": "Server Connected",
-    "image": "https://ossimg.jalwa-jalwa.com/Jalwa/other/h5setting_20250315141734j61m.png",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/jalwagame.jpeg",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
   },
   {
-    "name": "SIKKIM GAME",
+    "name": "91 CLUB",
     "subtitle": "Server Connected",
-    "image": "https://ossimg.yuk87k786d.com/sikkim/other/h5setting_20240628133837xkh7.png",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/91club.jpg",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
+  },
+  {
+    "name": "TIRANGA",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/tiranga.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "active"
   },
   {
     "name": "OK WIN",
     "subtitle": "Server Connected",
-    "image": "https://ossimg.cmdgametransit.com/OK.Win/other/h5setting_20240313155706n3d7.png",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/okwin.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
+  },
+  {
+    "name": "55 CLUB",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/club55.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "active"
+  },
+  {
+    "name": "BIG MUMBAI",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigmumbai.jpeg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "active"
+  },
+  {
+    "name": "BIGDADDY",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigdaddy.jpeg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "active"
   }
 ]
