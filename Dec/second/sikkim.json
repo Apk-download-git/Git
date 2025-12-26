@@ -7,7 +7,8 @@
     "deposit_url": "https://sikkimgg.net/#/main",
     "register_url": "https://sikkimgg.net/#/register?invitationCode=73728400111",
     "chance_used": 1,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
   },
   {
     "name": "GBGM GAME",
@@ -15,7 +16,8 @@
     "image": "https://gbgm.buzz/aritsulation/logo.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
   },
   {
     "name": "JALWA GAME",
@@ -23,7 +25,8 @@
     "image": "https://ossimg.jalwa-jalwa.com/Jalwa/other/h5setting_20250315141734j61m.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
   },
   {
     "name": "BONUS BHAI",
@@ -31,7 +34,8 @@
     "image": "https://bonusbhai.in/h5setting_202308141709544lm1.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
   },
   {
     "name": "OK WIN",
@@ -39,6 +43,52 @@
     "image": "https://ossimg.cmdgametransit.com/OK.Win/other/h5setting_20240313155706n3d7.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
+  },
+  {
+    "name": "91 CLUB",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/91club.jpg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "active"
+  },
+  {
+    "name": "TIRANGA",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/tiranga.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "active"
+  },
+  {
+    "name": "55 CLUB",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/club55.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "active"
+  },
+  {
+    "name": "BIG MUMBAI",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigmumbai.jpeg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "active"
+  },
+  {
+    "name": "BIGDADDY",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigdaddy.jpeg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "active"
   }
 ]
