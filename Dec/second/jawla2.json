@@ -1,0 +1,44 @@
+[
+  {
+    "name": "JALWA GAMES",
+    "subtitle": "https://r8jald3.com/#/register?invitationCode=615544007322",
+    "image": "https://ossimg.jalwa-jalwa.com/Jalwa/other/h5setting_20250315141734j61m.png",
+    "main": true,
+    "deposit_url": "https://r8jald3.com/#/main",
+    "register_url": "https://r8jald3.com/#/register?invitationCode=615544007322",
+    "chance_used": 1,
+    "chance_total": 5
+  },
+  {
+    "name": "GBGM GAME",
+    "subtitle": "Server Connected",
+    "image": "https://gbgm.buzz/aritsulation/logo.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "BONUS BHAI",
+    "subtitle": "Server Connected",
+    "image": "https://bonusbhai.in/h5setting_202308141709544lm1.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "SIKKIM GAME",
+    "subtitle": "Server Connected",
+    "image": "https://ossimg.yuk87k786d.com/sikkim/other/h5setting_20240628133837xkh7.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "OK WIN",
+    "subtitle": "Server Connected",
+    "image": "https://ossimg.cmdgametransit.com/OK.Win/other/h5setting_20240313155706n3d7.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  }
+]
