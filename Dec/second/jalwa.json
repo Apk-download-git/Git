@@ -21,12 +21,12 @@
   },
   {
     "name": "BONUS BHAI",
-    "subtitle": "Game Down",
+    "subtitle": "Server Connected",
     "image": "https://bonusbhai.in/h5setting_202308141709544lm1.png",
     "main": false,
     "chance_used": 0,
     "chance_total": 5,
-    "status": "down"
+    "status": "active"
   },
   {
     "name": "SIKKIM GAME",
@@ -39,56 +39,56 @@
   },
   {
     "name": "OK WIN",
-    "subtitle": "Game Down",
+    "subtitle": "Server Connected",
     "image": "https://ossimg.cmdgametransit.com/OK.Win/other/h5setting_20240313155706n3d7.png",
     "main": false,
     "chance_used": 0,
     "chance_total": 5,
-    "status": "down"
+    "status": "active"
   },
   {
     "name": "91 CLUB",
-    "subtitle": "Game Down",
+    "subtitle": "Server Connected",
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/91club.jpg",
     "main": false,
     "chance_used": 0,
     "chance_total": 5,
-    "status": "down"
+    "status": "active"
   },
   {
     "name": "TIRANGA",
-    "subtitle": "Game Down",
+    "subtitle": "Server Connected",
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/tiranga.png",
     "main": false,
     "chance_used": 0,
     "chance_total": 5,
-    "status": "down"
+    "status": "active"
   },
   {
     "name": "55 CLUB",
-    "subtitle": "Game Down",
+    "subtitle": "Server Connected",
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/club55.png",
     "main": false,
     "chance_used": 0,
     "chance_total": 5,
-    "status": "down"
+    "status": "active"
   },
   {
     "name": "BIG MUMBAI",
-    "subtitle": "Game Down",
+    "subtitle": "Server Connected",
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigmumbai.jpeg",
     "main": false,
     "chance_used": 0,
     "chance_total": 5,
-    "status": "down"
+    "status": "active"
   },
   {
     "name": "BIGDADDY",
-    "subtitle": "Game Down",
+    "subtitle": "Server Connected",
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigdaddy.jpeg",
     "main": false,
     "chance_used": 0,
     "chance_total": 5,
-    "status": "down"
+    "status": "active"
   }
 ]
