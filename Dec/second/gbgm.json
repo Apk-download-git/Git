@@ -7,8 +7,7 @@
     "deposit_url": "https://gbgm.buzz/#/main",
     "register_url": "https://gbgm.buzz/#/register?invitationCode=0171872262039",
     "chance_used": 1,
-    "chance_total": 5,
-    "status": "active"
+    "chance_total": 5
   },
   {
     "name": "BONUS BHAI",
@@ -16,8 +15,7 @@
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bonusbhai.jpg",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5,
-    "status": "active"
+    "chance_total": 5
   },
   {
     "name": "JALWA GAME",
@@ -25,8 +23,7 @@
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/jalwagame.jpeg",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5,
-    "status": "active"
+    "chance_total": 5
   },
   {
     "name": "91 CLUB",
@@ -34,8 +31,7 @@
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/91club.jpg",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5,
-    "status": "active"
+    "chance_total": 5
   },
   {
     "name": "TIRANGA",
@@ -43,8 +39,7 @@
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/tiranga.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5,
-    "status": "active"
+    "chance_total": 5
   },
   {
     "name": "OK WIN",
@@ -52,8 +47,7 @@
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/okwin.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5,
-    "status": "active"
+    "chance_total": 5
   },
   {
     "name": "55 CLUB",
@@ -61,8 +55,7 @@
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/club55.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5,
-    "status": "active"
+    "chance_total": 5
   },
   {
     "name": "BIG MUMBAI",
@@ -70,8 +63,7 @@
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigmumbai.jpeg",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5,
-    "status": "active"
+    "chance_total": 5
   },
   {
     "name": "BIGDADDY",
@@ -79,7 +71,6 @@
     "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigdaddy.jpeg",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5,
-    "status": "active"
+    "chance_total": 5
   }
 ]
