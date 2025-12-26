@@ -1,7 +1,7 @@
 [
   {
     "name": "OK WIN",
-    "subtitle": "https://okwin06.com/#/register?invitationCode=282452739393",
+    "subtitle": "Game Down",
     "image": "https://ossimg.cmdgametransit.com/OK.Win/other/h5setting_20240313155706n3d7.png",
     "main": true,
     "deposit_url": "https://okwin06.com/#/main",
@@ -19,7 +19,7 @@
   },
   {
     "name": "JALWA GAME",
-    "subtitle": "Server Connected",
+    "subtitle": "Game Down",
     "image": "https://ossimg.jalwa-jalwa.com/Jalwa/other/h5setting_20250315141734j61m.png",
     "main": false,
     "chance_used": 0,
@@ -34,9 +34,49 @@
     "chance_total": 5
   },
   {
-    "name": "BONUS BHAI,
+    "name": "BONUS BHAI",
     "subtitle": "Server Connected",
     "image": "https://bonusbhai.in/h5setting_202308141709544lm1.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "91 CLUB",
+    "subtitle": "Game Down",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/91club.jpg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "TIRANGA",
+    "subtitle": "Game Down",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/tiranga.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "55 CLUB",
+    "subtitle": "Game Down",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/club55.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "BIG MUMBAI",
+    "subtitle": "Game Down",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigmumbai.jpeg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "BIGDADDY",
+    "subtitle": "Game Down",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigdaddy.jpeg",
     "main": false,
     "chance_used": 0,
     "chance_total": 5
