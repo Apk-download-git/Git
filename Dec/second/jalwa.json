@@ -7,7 +7,8 @@
     "deposit_url": "https://r8jald3.com/#/main",
     "register_url": "https://r8jald3.com/#/register?invitationCode=615544007322",
     "chance_used": 1,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
   },
   {
     "name": "GBGM GAME",
@@ -15,15 +16,17 @@
     "image": "https://gbgm.buzz/aritsulation/logo.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
   },
   {
     "name": "BONUS BHAI",
-    "subtitle": "Server Connected",
+    "subtitle": "Game Down",
     "image": "https://bonusbhai.in/h5setting_202308141709544lm1.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "down"
   },
   {
     "name": "SIKKIM GAME",
@@ -31,14 +34,61 @@
     "image": "https://ossimg.yuk87k786d.com/sikkim/other/h5setting_20240628133837xkh7.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "active"
   },
   {
     "name": "OK WIN",
-    "subtitle": "Server Connected",
+    "subtitle": "Game Down",
     "image": "https://ossimg.cmdgametransit.com/OK.Win/other/h5setting_20240313155706n3d7.png",
     "main": false,
     "chance_used": 0,
-    "chance_total": 5
+    "chance_total": 5,
+    "status": "down"
+  },
+  {
+    "name": "91 CLUB",
+    "subtitle": "Game Down",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/91club.jpg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "down"
+  },
+  {
+    "name": "TIRANGA",
+    "subtitle": "Game Down",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/tiranga.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "down"
+  },
+  {
+    "name": "55 CLUB",
+    "subtitle": "Game Down",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/club55.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "down"
+  },
+  {
+    "name": "BIG MUMBAI",
+    "subtitle": "Game Down",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigmumbai.jpeg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "down"
+  },
+  {
+    "name": "BIGDADDY",
+    "subtitle": "Game Down",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigdaddy.jpeg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5,
+    "status": "down"
   }
 ]
