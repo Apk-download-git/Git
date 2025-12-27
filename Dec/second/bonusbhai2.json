@@ -1,0 +1,76 @@
+[
+  {
+    "name": "BONUS BHAI",
+    "subtitle": "https://bonusbhai.in/register?invitationCode=316273525320",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bonusbhai.jpg",
+    "main": true,
+    "deposit_url": "https://bonusbhai.in/#/wallet",
+    "register_url": "https://bonusbhai.in/register?invitationCode=316273525320",
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "GBGM GAME",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/gbgm.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "JALWA GAME",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/jalwagame.jpeg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "91 CLUB",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/91club.jpg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "TIRANGA",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/tiranga.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "OK WIN",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/okwin.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "55 CLUB",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/club55.png",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "BIG MUMBAI",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigmumbai.jpeg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  },
+  {
+    "name": "BIGDADDY",
+    "subtitle": "Server Connected",
+    "image": "https://raw.githubusercontent.com/Apk-download-git/Git/main/bigdaddy.jpeg",
+    "main": false,
+    "chance_used": 0,
+    "chance_total": 5
+  }
+]
