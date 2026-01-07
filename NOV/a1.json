@@ -1,0 +1,9 @@
+{
+  "home": "https://a1game.world/#/",
+  "register": "https://a1game.world/#/register?invitationCode=773260022482",
+  "login": "https://a1game.world/#/login",
+  "wallet": "https://a1game.world/#/wallet",
+  "matching": [
+    "https://a1game.world/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
+  ]
+}
