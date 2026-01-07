@@ -1,0 +1,9 @@
+{
+  "home": "https://gbgm.buzz/#/",
+  "register": "https://gbgm.buzz/#/register?invitationCode=4196852261688",
+  "login": "https://gbgm.buzz/#/login",
+  "wallet": "https://gbgm.buzz/#/wallet",
+  "matching": [
+    "https://gbgm.buzz/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
+  ]
+}
