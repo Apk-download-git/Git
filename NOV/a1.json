@@ -4,6 +4,6 @@
   "login": "https://a1game.world/#/login",
   "wallet": "https://a1game.world/#/wallet",
   "matching": [
-    "https://a1game.world/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
+    "https://a1game.world/#/home/AllLotteryGames/WinGo?id=1"
   ]
 }
