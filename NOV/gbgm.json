@@ -4,6 +4,6 @@
   "login": "https://gbgm.buzz/#/login",
   "wallet": "https://gbgm.buzz/#/wallet",
   "matching": [
-    "https://gbgm.buzz/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
+    "https://gbgm.buzz/#/home/AllLotteryGames/WinGo?id=1"
   ]
 }
