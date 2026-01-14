@@ -1,9 +1,9 @@
 {
-  "home": "https://jgame3.com/#/",
-  "register": "https://jgame3.com/#/register?invitationCode=258148851084",
-  "login": "https://jgame3.com/#/login",
-  "wallet": "https://jgame3.com/#/wallet",
+  "home": "https://www.jalwa.org/#/",
+  "register": "https://www.jalwa.org/#/register?invitationCode=258148851084",
+  "login": "https://www.jalwa.org/#/login",
+  "wallet": "https://www.jalwa.org/#/wallet",
   "matching": [
-    "https://jgame3.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
+    "https://www.jalwa.org/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
   ]
 }
