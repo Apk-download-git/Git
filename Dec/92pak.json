@@ -1,17 +1,17 @@
 {
   "matching_urls": [
-    "https://mirajpak.club/#/wallet",
-    "https://mirajpak.club/#/wallet/Recharge",
-    "https://mirajpak.club/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://mirajpak.club/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
-    "https://mirajpak.club/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
-    "https://mirajpak.club/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+    "https://www.92pak.world/#/wallet",
+    "https://www.92pak.world/#/wallet/Recharge",
+    "https://www.92pak.world/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://www.92pak.world/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://www.92pak.world/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://www.92pak.world/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
-  "deposit_url": "https://mirajpak.club/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-  "login_url": "https://mirajpak.club/#/login",
-  "register_url": "https://mirajpak.club/register?invitationCode=ADM001CODE",
-  "telegram_url": "https://t.me/+XSP9iYs4BYBiOTdl",
-  "home_url": "https://mirajpak.club/#/",
+  "deposit_url": "https://www.92pak.world/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+  "login_url": "https://www.92pak.world/#/login",
+  "register_url": "https://www.92pak.world/register?invitationCode=25417129914",
+  "telegram_url": "https://whatsapp.com/channel/0029Vb6Ahg90QeamV4lp8Y0R",
+  "home_url": "https://www.92pak.world/#/",
   "minimum_deposit": 200,
   "minimum_deposit_number": 500
 }
