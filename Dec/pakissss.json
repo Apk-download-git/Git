@@ -1,8 +1,8 @@
 {
   "matching_urls": [
-    "https://www.92pak.world/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo#/wallet/Recharge",
-    "https://www.92pak.world/register?invitationCode=25417129914#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://www.92pak.world/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo"
+    "#/wallet/Recharge",s
+    "#/saasLottery/WinGo",
+    "#/saasLottery/TrxWinGo"
   ],
   "deposit_url": "https://www.92pak.world/#/wallet",
   "login_url": "https://www.92pak.world/#/login",
