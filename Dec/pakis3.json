@@ -1,0 +1,14 @@
+{
+  "matching_urls": [
+    "#/wallet/Recharge",
+    "#/saasLottery/WinGo",
+    "#/saasLottery/TrxWinGo"
+  ],
+  "deposit_url": "https://www.92pak19.com/#/wallet",
+  "login_url": "https://www.92pak19.com/#/login",
+  "register_url": "https://www.92pak19.com/#/register?invitationCode=57266861633",
+  "telegram_url": "https://whatsapp.com/channel/0029VbCKAOJ3mFXx7tP6fe11",
+  "home_url": "https://www.92pak19.com/#/",
+  "minimum_deposit": 300,
+  "minimum_deposit_number": 500
+}
