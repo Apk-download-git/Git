@@ -1,17 +1,17 @@
 {
   "matching_urls": [
-    "https://jgame3.com/#/wallet",
-    "https://jgame3.com/#/wallet/recharge",
-    "https://jgame3.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
-    "https://jgame3.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
-    "https://jgame3.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
-    "https://jgame3.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+    "https://y0jalu2.com/#/wallet",
+    "https://y0jalu2.com/#/wallet/recharge",
+    "https://y0jalu2.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://y0jalu2.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://y0jalu2.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://y0jalu2.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
   ],
-  "deposit_url": "https://jgame3.com/#/wallet",
-  "login_url": "https://jgame3.com/#/login",
-  "register_url": "https://jgame3.com/#/register?invitationCode=487643178264",
+  "deposit_url": "https://y0jalu2.com/#/wallet",
+  "login_url": "https://y0jalu2.com/#/login",
+  "register_url": "https://y0jalu2.com/#/register?invitationCode=487643178264",
   "telegram_url": "https://t.me/+cARONI3vGiI3NzQ1",
-  "home_url": "https://jgame3.com/#/",
+  "home_url": "https://y0jalu2.com/#/",
   "minimum_deposit": 200,
   "minimum_deposit_number": 200
 }
