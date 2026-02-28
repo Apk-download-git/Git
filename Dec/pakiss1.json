@@ -1,8 +1,9 @@
 {
   "matching_urls": [
-    "#/wallet/Recharge",
-    "#/saasLottery/WinGo",
-    "#/saasLottery/TrxWinGo"
+    "https://92pak6.buzz/wingo/?game_type=10",
+    "https://92pak6.buzz/wingo/?game_type=1",
+    "https://92pak6.buzz/wingo/?game_type=5",
+    "https://92pak6.buzz/wingo/?game_type=3"
   ],
   "deposit_url": "https://92pak6.buzz/#/wallet",
   "login_url": "https://92pak6.buzz/#/login",
