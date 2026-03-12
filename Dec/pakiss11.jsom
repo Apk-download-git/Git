@@ -29,6 +29,22 @@
 
 {
   "matching_urls": [
+    "https://92glory00.buzz/wingo/?game_type=10",
+    "https://92glory00.buzz/wingo/?game_type=1",
+    "https://92glory00.buzz/wingo/?game_type=5",
+    "https://92glory00.buzz/wingo/?game_type=3"
+  ],
+  "deposit_url": "https://92glory00.buzz/#/wallet",
+  "login_url": "https://92glory00.buzz/#/login",
+  "register_url": "https://92glory00.buzz/#/register?invitationCode=65524945991",
+  "telegram_url": "https://whatsapp.com/channel/0029Vb6Ahg90QeamV4lp8Y0R",
+  "home_url": "https://92glory00.buzz/#/",
+  "minimum_deposit": 300,
+  "minimum_deposit_number": 500
+}
+
+{
+  "matching_urls": [
     "https://92pak6.buzz/wingo/?game_type=10",
     "https://92pak6.buzz/wingo/?game_type=1",
     "https://92pak6.buzz/wingo/?game_type=5",
