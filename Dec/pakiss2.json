@@ -1,14 +1,15 @@
 {
   "matching_urls": [
-    "#/wallet/Recharge",
-    "#/saasLottery/WinGo",
-    "#/saasLottery/TrxWinGo"
+    "https://92glory00.buzz/wingo/?game_type=10",
+    "https://92glory00.buzz/wingo/?game_type=1",
+    "https://92glory00.buzz/wingo/?game_type=5",
+    "https://92glory00.buzz/wingo/?game_type=3"
   ],
-  "deposit_url": "https://www.92glory00.com/#/wallet",
-  "login_url": "https://www.92glory00.com/#/login",
-  "register_url": "https://www.92glory00.com/#/register?invitationCode=65524945991",
+  "deposit_url": "https://92glory00.buzz/#/wallet",
+  "login_url": "https://92glory00.buzz/#/login",
+  "register_url": "https://92glory00.buzz/#/register?invitationCode=65524945991",
   "telegram_url": "https://whatsapp.com/channel/0029Vb6Ahg90QeamV4lp8Y0R",
-  "home_url": "https://www.92glory00.com/#/",
+  "home_url": "https://92glory00.buzz/#/",
   "minimum_deposit": 300,
   "minimum_deposit_number": 500
 }
