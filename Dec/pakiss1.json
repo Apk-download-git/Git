@@ -1,15 +1,14 @@
 {
   "matching_urls": [
-    "https://92pak6.buzz/wingo/?game_type=10",
-    "https://92pak6.buzz/wingo/?game_type=1",
-    "https://92pak6.buzz/wingo/?game_type=5",
-    "https://92pak6.buzz/wingo/?game_type=3"
+    "#/wallet/Recharge",
+    "#/saasLottery/WinGo",
+    "#/saasLottery/TrxWinGo"
   ],
-  "deposit_url": "https://92pak6.buzz/wallet/recharge",
-  "login_url": "https://92pak6.buzz/login",
-  "register_url": "https://92pak6.buzz/register?invitationCode=25417129914",
+  "deposit_url": "https://www.92pak.world/#/wallet",
+  "login_url": "https://www.92pak.world/#/login",
+  "register_url": "https://www.92pak.world/#/register?invitationCode=25417129914",
   "telegram_url": "https://whatsapp.com/channel/0029Vb6Ahg90QeamV4lp8Y0R",
-  "home_url": "https://92pak6.buzz/#/",
+  "home_url": "https://www.92pak.world/#/",
   "minimum_deposit": 300,
   "minimum_deposit_number": 500
 }
