@@ -1,17 +1,17 @@
 {
   "matching_urls": [
-    "http://46.202.191.12:3001/#/wallet",
-    "http://46.202.191.12:3001/#/wallet/recharge",
-    "http://46.202.191.12:3001/wingo/?game_type=10",
-    "http://46.202.191.12:3001/wingo/?game_type=1",
-    "http://46.202.191.12:3001/wingo/?game_type=5",
-    "http://46.202.191.12:3001/wingo/?game_type=3"
+    "http://46.202.191.12:9162/#/wallet",
+    "http://46.202.191.12:9162/#/wallet/recharge",
+    "http://46.202.191.12:9162/wingo/?game_type=10",
+    "http://46.202.191.12:9162/wingo/?game_type=1",
+    "http://46.202.191.12:9162/wingo/?game_type=5",
+    "http://46.202.191.12:9162/wingo/?game_type=3"
   ],
-  "deposit_url": "http://46.202.191.12:3001/wallet/recharge",
-  "login_url": "http://46.202.191.12:3001/login",
-  "register_url": "http://46.202.191.12:3001/register?invitationCode=25417129914",
+  "deposit_url": "http://46.202.191.12:9162/wallet/recharge",
+  "login_url": "http://46.202.191.12:9162/login",
+  "register_url": "http://46.202.191.12:9162/register?invitationCode=25417129914",
   "telegram_url": "http://whatsapp.com/channel/0029VbBoqHR1CYoWdMetNz1l",
-  "home_url": "http://46.202.191.12:3001/#/",
+  "home_url": "http://46.202.191.12:9162/#/",
   "minimum_deposit": 500,
   "minimum_deposit_number": 1000
 }
