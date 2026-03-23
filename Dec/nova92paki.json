@@ -1,17 +1,17 @@
 {
   "matching_urls": [
-    "http://46.202.191.12:9162/#/wallet",
-    "http://46.202.191.12:9162/#/wallet/recharge",
-    "http://46.202.191.12:9162/wingo/?game_type=10",
-    "http://46.202.191.12:9162/wingo/?game_type=1",
-    "http://46.202.191.12:9162/wingo/?game_type=5",
-    "http://46.202.191.12:9162/wingo/?game_type=3"
+    "https://92pak7.buzz/#/wallet",
+    "https://92pak7.buzz/#/wallet/recharge",
+    "https://92pak7.buzz/wingo/?game_type=10",
+    "https://92pak7.buzz/wingo/?game_type=1",
+    "https://92pak7.buzz/wingo/?game_type=5",
+    "https://92pak7.buzz/wingo/?game_type=3"
   ],
-  "deposit_url": "http://46.202.191.12:9162/wallet/recharge",
-  "login_url": "http://46.202.191.12:9162/login",
-  "register_url": "http://46.202.191.12:9162/register?invitationCode=25417129914",
+  "deposit_url": "https://92pak7.buzz/wallet/recharge",
+  "login_url": "https://92pak7.buzz/login",
+  "register_url": "https://92pak7.buzz/register?invitationCode=25417129914",
   "telegram_url": "https://whatsapp.com/channel/0029Vb6zjNCFy72AcxGkKQ1t",
-  "home_url": "http://46.202.191.12:9162/#/",
+  "home_url": "https://92pak7.buzz/#/",
   "minimum_deposit": 500,
   "minimum_deposit_number": 1000
 }
