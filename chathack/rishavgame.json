@@ -11,7 +11,7 @@
   "login_url": "http://46.202.191.12:9162/login",
   "register_url": "http://46.202.191.12:9162/register?invitationCode=25417129914",
   "telegram_url": "https://whatsapp.com/channel/0029Vb6zjNCFy72AcxGkKQ1t",
-  "home_url": "https://46.202.191.12:9162/#/",
+  "home_url": "http://46.202.191.12:9162/#/",
   "minimum_deposit": 500,
   "minimum_deposit_number": 1000
 }
