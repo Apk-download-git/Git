@@ -1,0 +1,12 @@
+{
+  "matching_urls": [
+    "https://www.jaiclub40.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
+  ],
+  "deposit_url": "https://www.jaiclub40.com/#/wallet/recharge",
+  "login_url": "https://www.jaiclub40.com/#/login",
+  "register_url": "https://www.jaiclub40.com/#/register?invitationCode=25127161190",
+  "telegram_url": "https://t.me/+D9D5z34L8mlmYWJl",
+  "home_url": "https://www.jaiclub40.com/#/",
+  "minimum_deposit": 200,
+  "minimum_deposit_number": 500
+}
