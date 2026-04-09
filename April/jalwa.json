@@ -1,0 +1,15 @@
+{
+  "matching_urls": ["https://t9jalw7.com#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"],
+  "deposit_url": "https://t9jalw7.com#/wallet/Recharge",
+  "login_url": "https://t9jalw7.com#/login",
+  "register_url": "https://t9jalw7.com/#/register?invitationCode=615544007322",
+  "telegram_url": "https://t.me/+DIAlvRrlrI81ZmM1",
+  "home_url": "https://t9jalw7.com#/",
+  "minimum_deposit": 200,
+  "minimum_deposit_number": 500,
+  "allowed_numbers": ["99998871320", "9876543210"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit.wav",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/number.mp3"
+}
