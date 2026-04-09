@@ -1,0 +1,15 @@
+{
+  "matching_urls": ["https://okwin06.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"],
+  "deposit_url": "https://okwin06.com/#/wallet/Recharge",
+  "login_url": "https://okwin06.com/#/login",
+  "register_url": "https://okwin06.com/#/register?invitationCode=282452739393",
+  "telegram_url": "https://t.me/+akQev_HiQHIwYzc9",
+  "home_url": "https://okwin06.com/#/",
+  "minimum_deposit": 200,
+  "minimum_deposit_number": 500,
+  "allowed_numbers": ["99998871320", "9876543210"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit.wav",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/number.mp3"
+}
