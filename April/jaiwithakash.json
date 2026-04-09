@@ -7,7 +7,7 @@
   "home_url": "https://www.jaiclub32.com/#/",
   "minimum_deposit": 200,
   "minimum_deposit_number": 500,
-  "allowed_numbers": ["99998871320", "9876543210"],
+  "allowed_numbers": ["99998871320"],
   "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit.wav",
   "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
   "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
