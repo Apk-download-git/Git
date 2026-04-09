@@ -1,7 +1,5 @@
 {
-  "matching_urls": [
-    "https://www.jaiclub17.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"
-  ],
+  "matching_urls": ["https://www.jaiclub17.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"],
   "deposit_url": "https://www.jaiclub17.com/#/wallet/Recharge",
   "login_url": "https://www.jaiclub17.com/#/login",
   "register_url": "https://www.jaiclub17.com/#/register?invitationCode=38536239161",
@@ -9,5 +7,9 @@
   "home_url": "https://www.jaiclub17.com/#/",
   "minimum_deposit": 200,
   "minimum_deposit_number": 500,
-  "allowed_numbers": ["99998871320", "9876543210"]
+  "allowed_numbers": ["99998871320", "9876543210"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit.wav",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/number.mp3"
 }
