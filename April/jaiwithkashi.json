@@ -8,8 +8,8 @@
   "minimum_deposit": 200,
   "minimum_deposit_number": 500,
   "allowed_numbers": ["99998871320"],
-  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit.wav",
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/bigsmall.mp3",
   "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
   "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
-  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/number.mp3"
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit.mp3"
 }
