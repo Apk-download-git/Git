@@ -11,5 +11,7 @@
   "allowed_numbers": ["99998871320"],
   "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
   "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
-  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/dragondeposit.mp3"
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/dragondeposit.mp3",
+  "matching_page": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/congratulation.mp3",
+  "home_page_audio": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/homepage.mp3"
 }
