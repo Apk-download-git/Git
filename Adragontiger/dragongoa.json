@@ -1,0 +1,17 @@
+{
+  "matching_urls": ["https://skylineargas.evo-games.com"],
+  "deposit_url": "https://goaokg.com/#/wallet/Recharge",
+  "matching_urls_text": "ACTIVATE DRAGON SYSTEM",
+  "login_url": "https://goaokg.com/#/login",
+  "register_url": "https://goaokg.com/#/register?invitationCode=416623809168",
+  "telegram_url": "https://t.me/+MbR1LAJ5XY45NWY1",
+  "home_url": "https://goaokg.com/#/",
+  "minimum_deposit": 300,
+  "required_minimum_balance": 90,
+  "allowed_numbers": ["99998871377"],
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/dragondeposit.mp3",
+  "matching_page": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/congratulation.mp3",
+  "home_page_audio": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/homepage.mp3"
+}
