@@ -1,0 +1,17 @@
+{
+  "matching_urls": [
+    "http://46.202.191.12:9162/wingo/?game_type=1"
+  ],
+  "deposit_url": "http://46.202.191.12:9162/wallet/recharge",
+  "login_url": "http://46.202.191.12:9162/#/login",
+  "register_url": "http://46.202.191.12:9162/register",
+  "telegram_url": "https://whatsapp.com/channel/0029VbBoppg9cDDWApy7CC2C",
+  "home_url": "http://46.202.191.12:9162/#/",
+  "minimum_deposit": 300,
+  "minimum_deposit_number": 500,
+  "allowed_numbers": ["8130828268"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/bigsmall.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit.mp3"
+}
