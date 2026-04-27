@@ -1,0 +1,15 @@
+{
+  "matching_urls": ["https://13l.bio/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"],
+  "deposit_url": "https://13l.bio/#/wallet/Recharge",
+  "login_url": "https://13l.bio/#/login",
+  "register_url": "https://13l.bio/register?inviteCode=7A6GV4N&from=web",
+  "telegram_url": "https://t.me/+lSvxEFl1tZY2M2Vl",
+  "home_url": "https://13l.bio/#/",
+  "minimum_deposit": 300,
+  "minimum_deposit_number": 500,
+  "allowed_numbers": ["2145735158", "2145735159"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/bigsmall.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit.mp3"
+}
