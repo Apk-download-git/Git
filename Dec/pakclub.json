@@ -1,0 +1,17 @@
+{
+  "matching_urls": [
+    "https://pakclub18.com/wallet",
+    "https://pakclub18.com/wallet/recharge",
+    "https://pakclub18.com/WinGo/WinGo_30S",
+    "https://pakclub18.com/WinGo/WinGo_1M",
+    "https://pakclub18.com/WinGo/WinGo_3M",
+    "https://pakclub18.com/WinGo/WinGo_5M"
+  ],
+  "deposit_url": "https://pakclub18.com/wallet/recharge",
+  "login_url": "https://pakclub18.com/login",
+  "register_url": "https://pakclub18.com/register?inviteCode=8MFEJKN&from=web",
+  "telegram_url": "https://whatsapp.com/channel/0029Vb6zjNCFy72AcxGkKQ1t",
+  "home_url": "https://pakclub18.com/",
+  "minimum_deposit": 300,
+  "minimum_deposit_number": 500
+}
