@@ -1,0 +1,17 @@
+{
+  "matching_urls": [
+    "https://12yaarwin.com/#/wallet",
+    "https://12yaarwin.com/#/wallet/recharge",
+    "https://12yaarwin.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo",
+    "https://12yaarwin.com/#/saasLottery/TrxWinGo?gameCode=TrxWinGo_1M&lottery=TrxWinGo",
+    "https://12yaarwin.com/#/saasLottery/D5?gameCode=D5_1M&lottery=D5",
+    "https://12yaarwin.com/#/saasLottery/K3?gameCode=K3_1M&lottery=K3"
+  ],
+  "deposit_url": "https://12yaarwin.com/#/wallet/Recharge",
+  "login_url": "https://12yaarwin.com/#/login",
+  "register_url": "https://12yaarwin.com/#/register?invitationCode=78788519933",
+  "telegram_url": "https://t.me/+v8Wde7Uut6hhNGM1",
+  "home_url": "https://12yaarwin.com/#/",
+  "minimum_deposit": 200,
+  "minimum_deposit_number": 500
+}
