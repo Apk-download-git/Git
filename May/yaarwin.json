@@ -1,0 +1,15 @@
+{
+  "matching_urls": ["https://12yaarwin.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"],
+  "deposit_url": "https://12yaarwin.com/#/wallet/Recharge",
+  "login_url": "https://12yaarwin.com/#/login",
+  "register_url": "https://12yaarwin.com/#/register?invitationCode=386151009511",
+  "telegram_url": "https://t.me/+U6tp54v8gnIxMTll",
+  "home_url": "https://12yaarwin.com/#/",
+  "minimum_deposit": 300,
+  "minimum_deposit_number": 500,
+  "allowed_numbers": ["2145735158", "2145735159"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/bigsmall.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit300.mp3"
+}
