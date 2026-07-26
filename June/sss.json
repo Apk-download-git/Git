@@ -7,7 +7,7 @@
   "register_url": "https://www.92pak14.com/#/register?invitationCode=25417129914",
   "telegram_url": "https://whatsapp.com/channel/0029VbBEEXFBVJlAD35OEI3o",
   "home_url": "https://www.92pak14.com",
-  "minimum_deposit_number": 300,
+  "minimum_deposit_number": 2,
   "allowed_numbers": ["03356044811"],
   "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/loginfailed.mp3",
   "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/registeraudio.mp3",
