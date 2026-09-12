@@ -1,0 +1,14 @@
+{
+  "matching_urls": ["https://www.veergame66.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"],
+  "deposit_url": "https://www.veergame66.com/#/wallet/Recharge",
+  "login_url": "https://www.veergame66.com/#/login",
+  "register_url": "https://www.veergame66.com/#/register?invitationCode=57761111722",
+  "telegram_url": "https://t.me/+0hYWD__6CdFlNTNl",
+  "home_url": "https://www.veergame66.com/#/",
+  "minimum_deposit": 300,
+  "allowed_numbers": ["919292929431","9292929431"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/bigsmall.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/A/Audio/deposit300.mp3"
+}
