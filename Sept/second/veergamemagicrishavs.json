@@ -1,0 +1,16 @@
+{
+  "matching_urls": ["https://www.veergame17.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"],
+  "deposit_url": "https://www.veergame17.com/#/wallet/Recharge",
+  "login_url": "https://www.veergame17.com/#/login",
+  "register_url": "https://www.veergame17.com/#/register?invitationCode=79577132792",
+  "telegram_url": "https://t.me/+EsKXlNZtu3ExYTk1",
+  "home_url": "https://www.veergame17.com/#/",
+  "minimum_deposit": 300,
+  "allowed_numbers": ["919292929431","9292929431"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/deposit.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/deposit.mp3",
+  "audio_splash": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/splash.mp3",
+  "audio_home": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/home.mp3"
+}
