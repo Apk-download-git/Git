@@ -1,0 +1,16 @@
+{
+  "matching_urls": ["https://sikkimgg.net/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"],
+  "deposit_url": "https://sikkimgg.net/#/wallet/Recharge",
+  "login_url": "https://sikkimgg.net/#/login",
+  "register_url": "https://sikkimgg.net/#/register?invitationCode=73728400111",
+  "telegram_url": "https://t.me/+7bTDcDou-HkzMDBl",
+  "home_url": "https://sikkimgg.net/#/",
+  "minimum_deposit": 300,
+  "allowed_numbers": ["8865358766","918865358766"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/deposit.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/deposit.mp3",
+  "audio_splash": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/splash.mp3",
+  "audio_home": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/home.mp3"
+}
