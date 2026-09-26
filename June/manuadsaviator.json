@@ -6,7 +6,7 @@
   "telegram_url": "https://whatsapp.com/channel/0029VbBoppg9cDDWApy7CC2C",
   "home_url": "https://pakclub.manuads.online/",
   "minimum_deposit_number": 500,
-  "allowed_numbers": ["8130828260"],
+  "allowed_numbers": ["8130828260","8191624847"],
   "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/loginfailed.mp3",
   "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/registeraudio.mp3",
   "home_audio": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/pakaudio/newaccountregistered.mp3",
