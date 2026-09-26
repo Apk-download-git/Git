@@ -1,10 +1,10 @@
 {
-  "matching_urls": ["https://a7jalx9.com/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"],
-  "deposit_url": "https://a7jalx9.com/#/wallet/Recharge",
-  "login_url": "https://a7jalx9.com/#/login",
-  "register_url": "https://a7jalx9.com/#/register?invitationCode=615544007322",
-  "telegram_url": "https://t.me/+dctH0w1FGgc4YTc9",
-  "home_url": "https://a7jalx9.com/#/",
+  "matching_urls": ["https://www.pakvip.co/#/saasLottery/WinGo?gameCode=WinGo_30S&lottery=WinGo"],
+  "deposit_url": "https://www.pakvip.co/#/wallet/Recharge",
+  "login_url": "https://www.pakvip.co/#/login",
+  "register_url": "https://www.pakvip.co/#/register?invitationCode=17561101154",
+  "telegram_url": "https://wingoteacher.lovable.app",
+  "home_url": "https://www.pakvip.co/#/",
   "minimum_deposit": 300,
   "allowed_numbers": ["912145735159","2145735159"]
 }
