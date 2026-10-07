@@ -1,0 +1,19 @@
+{
+  "matching_urls": ["https://maanwin26.com/WinGo/WinGo_30S",
+  "https://maanwin26.com/WinGo/WinGo_1M",
+  "https://maanwin26.com/WinGo/WinGo_5M",
+  "https://maanwin26.com/WinGo/WinGo_3M"],
+  "deposit_url": "https://maanwin26.com/wallet/Recharge",
+  "login_url": "https://maanwin26.com/login",
+  "register_url": "https://maanwin26.com/register?inviteCode=5YJJN4N&from=web",
+  "telegram_url": "https://t.me/+LxiRsQ3kFSMzNTdl",
+  "home_url": "https://maanwin26.com",
+  "minimum_deposit": 300,
+  "allowed_numbers": ["99117888233","9199117888233"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/deposit.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/deposit.mp3",
+  "audio_splash": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/splash.mp3",
+  "audio_home": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/home.mp3"
+}
