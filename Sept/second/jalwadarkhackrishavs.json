@@ -1,0 +1,20 @@
+{
+  "matching_urls": ["https://jaiclub27.live/WinGo",
+  "https://jaiclub27.live/WinGo/?game_type=3",
+  "https://jaiclub27.live/WinGo/?game_type=5",
+  "https://jaiclub27.live/WinGo/?game_type=1",
+  "https://jaiclub27.live/WinGo/?game_type=10"],
+  "deposit_url": "https://jaiclub27.live/#/wallet/Recharge",
+  "login_url": "https://jaiclub27.live/#/login",
+  "register_url": "https://jaiclub27.live/#/register?invitationCode=717560133668",
+  "telegram_url": "https://t.me/+Fmn4B85k3FljMzY1",
+  "home_url": "https://jaiclub27.live/#/",
+  "minimum_deposit": 300,
+  "allowed_numbers": ["1231231231","8130828267"],
+  "audio_deposit": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/deposit.mp3",
+  "audio_login": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/login.mp3",
+  "audio_register": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/register.mp3",
+  "audio_number": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/deposit.mp3",
+  "audio_splash": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/splash.mp3",
+  "audio_home": "https://raw.githubusercontent.com/Apk-download-git/Git/refs/heads/main/AA/Audio/home.mp3"
+}
