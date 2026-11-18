@@ -1,8 +1,8 @@
 {
   "matching_urls": ["https://pakbaazi.com/aviator"],
-  "deposit_url": "https://pakbaazi.com/wallet/recharge",
+  "deposit_url": "https://pakbaazi.com/deposit",
   "login_url": "https://pakbaazi.com/login",
-  "register_url": "https://pakbaazi.com/#/register?invitationCode=CXWCGLE",
+  "register_url": "https://pakbaazi.com/r/101154",
   "telegram_url": "https://www.whatsapp.com/channel/0029VbD40eGKrWQzqQWtLQ3e",
   "home_url": "https://pakbaazi.com/",
   "minimum_deposit_number": 500,
