@@ -3,7 +3,7 @@
   "deposit_url": "https://pakbaazi.com/deposit",
   "login_url": "https://pakbaazi.com/login",
   "register_url": "https://pakbaazi.com/register?invitationCode=100001",
-  "telegram_url": "https://www.whatsapp.com/channel/0029VbD40eGKrWQzqQWtLQ3e",
+  "telegram_url": "https://whatsapp.com/channel/0029VbD40eGKrWQzqQWtLQ3e",
   "home_url": "https://pakbaazi.com/",
   "minimum_deposit_number": 500,
   "allowed_numbers": ["3009990001"],
